@@ -34,7 +34,6 @@
   },
   "name":"BLANK GAMECHronos",
   "resources":[
-    {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
