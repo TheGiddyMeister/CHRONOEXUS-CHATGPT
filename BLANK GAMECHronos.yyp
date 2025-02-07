@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_player_movement","path":"scripts/scr_player_movement/scr_player_movement.yy",},},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
   ],
   "resourceType":"GMProject",

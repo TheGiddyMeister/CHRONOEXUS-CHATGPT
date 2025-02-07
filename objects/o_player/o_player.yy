@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"o_player",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"o_player",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_player",
+    "path":"sprites/s_player/s_player.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
